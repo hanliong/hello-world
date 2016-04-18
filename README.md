@@ -1,2 +1,2 @@
 # hello-world
-learn java
+learn java for the first time
